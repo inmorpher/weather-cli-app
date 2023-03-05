@@ -1,0 +1,17 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI Weather App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js" ,
+    "test": "run test"
+  },
+  "keywords": [
+    "weather",
+    "cli",
+    "nodejs"
+  ],
+  "author": "Inmo",
+  "license": "ISC"
+}
