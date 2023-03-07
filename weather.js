@@ -15,5 +15,3 @@ const initCLI = () => {
 };
 
 initCLI();
-
-console.log(1);
